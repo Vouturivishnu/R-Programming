@@ -1,7 +1,6 @@
 a=1:24
 b=array(a,dim(2,3,4))
 b
-print(b[1,2,3])
 
 OUTPUT:
 > a=matrix(1:20,nrow=5,ncol=4)
