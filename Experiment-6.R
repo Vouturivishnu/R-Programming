@@ -1,0 +1,7 @@
+a=c("Medium", "Tall", "Short", "Medium", "Tall")
+b=factor(a)
+print(b)
+set.seed(10)
+c=sample(LETTERS[1:5], 8, replace=TRUE)
+d=factor(c)
+print(d)
